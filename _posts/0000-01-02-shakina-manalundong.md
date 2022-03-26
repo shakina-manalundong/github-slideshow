@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A little progress each day adds up to big results.
 Use the left arrow to go back!
